@@ -1,0 +1,7 @@
+#banner
+image=https://i.imgur.com/rIzqukr.png
+text=&f&lTesting Testing
+#anvil
+slot1={"id":"minecraft:apple","Count":1}
+slot2={"id":"minecraft:carrot","Count":1}
+slot3={"id":"minecraft:bedrock","Count":1}
