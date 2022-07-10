@@ -1,6 +1,6 @@
 [
   {
-    "registant": "Ultreon",
+    "registrant": "Ultreon",
     "site": "https://raw.githubusercontent.com/Ultreon/gitweb-sites/main/",
     "registrations": [
       {"*": "*"}
