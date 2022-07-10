@@ -7,7 +7,7 @@ slot-2={"id":"minecraft:carrot","Count":1}
 slot-result={"id":"minecraft:bedrock","Count":1}
 
 #brewing
-slot-fuel={"id":"minecraft:blaze_rod","Count":5}
+slot-fuel={"id":"minecraft:blaze_powder","Count":5}
 slot-input={"id":"minecraft:nether_wart","Count":1}
 slot-output-0={"id":"minecraft:potion","tag":{Potion:"minecraft:awkward"},"Count":1}
 slot-output-1={"id":"minecraft:potion","tag":{Potion:"minecraft:awkward"},"Count":1}
