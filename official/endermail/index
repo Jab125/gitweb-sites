@@ -12,7 +12,7 @@ text=&e&lEndermail&r is the official email application for the Device Mod. To ge
 padding=10
 
 #applink
-app=ender_mail
+app=devices.ender_mail
 
 #header
 text=&f&lGetting Started
