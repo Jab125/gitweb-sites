@@ -1,0 +1,40 @@
+#banner
+image=https://i.imgur.com/rIzqukr.png
+text=&f&lEndermail
+
+#navigation
+item-link-1=endermail.official
+item-label-1=Home
+item-icon-1=HOME
+
+#paragraph
+text=&e&lEndermail&r is the official email application for the Device Mod. To get started, install Endermail with the button below.
+padding=10
+
+#applink
+app=ender_mail
+
+#header
+text=&f&lGetting Started
+scale=2
+align=left
+padding=10
+
+#paragraph
+text=Get it above and then sign up.
+padding=10
+
+#header
+text=&f&lCredits
+scale=2
+align=left
+padding=10
+
+#paragraph
+text=&e&lEndermail&r was originally created by MrCrayfish. It is now updated and managed by Ultreon.
+padding=10
+
+#footer
+title=GitWeb
+sub-title=Copyright (c) Ultreon
+home-page=endermail.official
