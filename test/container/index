@@ -17,13 +17,13 @@ item-label-4=Report
 item-icon-4=ERROR
 
 #paragraph
-text=This is the testing page for container modules, this may be moved to &module.test/container&r
+text=This is the testing page for container modules, this may be moved to &emodule.test/container&r
 padding=10
 
 #anvil
-slot-1={"id":"minecraft:apple","Count":1}
-slot-2={"id":"minecraft:carrot","Count":1}
-slot-result={"id":"minecraft:bedrock","Count":1}
+slot-1={"id":"minecraft:diamond_pickaxe","Count":1}
+slot-2={"id":"minecraft:enchanted_book","tag":{StoredEnchantments:[{id:"minecraft:unbreaking",lvl:3}]},"Count":1}
+slot-result={"id":"minecraft:diamond_pickaxe","tag":{Enchantments:[{id:"minecraft:unbreaking",lvl:3}]},"Count":1}
 
 #brewing
 slot-fuel={"id":"minecraft:blaze_powder","Count":1}
@@ -45,6 +45,11 @@ slot-5={"id":"minecraft:stick","Count":1}
 slot-8={"id":"minecraft:stick","Count":1}
 slot-result={"id":"minecraft:diamond_pickaxe","Count":1}
 
+#loom
+slot-banner={id:"minecraft:lime_banner",tag:{BlockEntityTag:{Patterns:[{Color:13,Pattern:"cbo"}],id:"minecraft:banner"}},Count:1}
+slot-dye={id:"minecraft:black_dye",Count:1}
+slot-pattern={id:"minecraft:creeper_banner_pattern",Count:1}
+slot-result={id:"minecraft:lime_banner",tag:{BlockEntityTag:{Patterns:[{Color:13,Pattern:"cbo"},{Color:15,Pattern:"cre"}],id:"minecraft:banner"}},Count:1}
 #footer
 title=Testing Sites
 sub-title=Copyright (c) Jab125
