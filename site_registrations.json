@@ -34,7 +34,7 @@
     "dev": true,
     "site": "https://jab125.com/gitweb/",
     "registrations": [
-      {"sites": "domain"}
+      {"sites": "extension"}
     ]
   }
 ]
