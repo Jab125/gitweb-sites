@@ -27,5 +27,14 @@
     "registrations": [
       {"endermail.official": "domain"}
     ]
+  },
+  {
+    "_comment": "Experimental GitWeb Sites",
+    "registrant": "Jab125",
+    "dev": true,
+    "site": "https://jab125.com/gitweb/",
+    "registrations": [
+      {"sites": "domain"}
+    ]
   }
 ]
