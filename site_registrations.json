@@ -8,6 +8,27 @@
     ]
   },
   {
+    "_comment": "Jab125 Sites Register",
+    "registrant": "Jab125",
+    "type": "site-register",
+    "register": "https://jab125.com/gitweb/site_registrations.php"
+  },
+  {
+    "dev": false,
+    "registrant": "Jab125",
+    "site": "https://jab125.com/gitweb/",
+    "registrations": [
+      {
+        "vulnerability": "extension",
+        "vulnerabilities": "extension",
+        "vulnerability.official": "domain",
+        "vulnerabilities.official": "domain",
+        "welcome.official/vulnerabilities": "directory",
+        "welcome.official/vulnerability": "directory"
+      }
+    ]
+  },
+  {
     "_comment": "Testing Sites, I'm keeping these up as why not?",
     "registrant": "Jab125",
     "dev": false,
